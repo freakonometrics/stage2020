@@ -1,3 +1,5 @@
+Ci-dessous figurent deux offres de stages, pour des étudiant(e)s en master en Europe. Pour tout complément d'information : [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca). Dans les deux cas, la poursuite dans le cadre d'une thèse de doctorat peut être envisagée. 
+
 # 1: Réseaux et assurance (*peer-to-peer insurance*)
 
 Encadrement : **Arthur Charpentier** 
@@ -12,7 +14,7 @@ durée : 4 mois à 6 mois
 
 *Le but du stage est de comprendre comment mettre en place efficacement des mécanismes d'assurance de type peer-to-peer, ou collaborative, sur un réseau d'amis. En particulier, il s'agira de voir comment optimiser l'offre, afin d'assurer une couverture au plus grand nombre.*
 
-Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
+Pour postuler : envoyer un CV à [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
 
 Le stage se déroulera à Montréal, Canada. Pour information, en juillet 2020, l'UQAM accueillera *IME 2020 - Insurance Mathematics Economics* [IME](https://tv.uqam.ca/ime-2020-insurance-mathematics-economics-congres-international). Il y aura aussi la possibilité de participer à des ateliers au [MILA](https://mila.quebec/)/[IVADO](http://ivado.ca/).
 
