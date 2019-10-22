@@ -2,7 +2,7 @@ Ci-dessous figurent deux offres de stages, pour des étudiant(e)s en master en E
 
 # 1: Réseaux et assurance (*peer-to-peer insurance*)
 
-Encadrement : **Arthur Charpentier** 
+Encadrement : **[Arthur Charpentier](https://freakonometrics.github.io/)** 
 
 Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/) et [IVADO](http://ivado.ca/))
 
@@ -33,7 +33,7 @@ Emekter, R., Tu, Y., Jirasakuldech, B., Lu, M. (2014). Evaluating credit risk an
 
 # 2: Sélection de variables et sélection de modèles en assurance
 
-Encadrement : **Arthur Charpentier** 
+Encadrement : **[Arthur Charpentier](https://freakonometrics.github.io/)** 
 
 Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/) et [IVADO](http://ivado.ca/))
 
