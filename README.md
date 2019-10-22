@@ -1,4 +1,4 @@
-Ci-dessous figurent deux offres de stages, pour des étudiant(e)s en master en Europe. Pour tout complément d'information : [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca). Dans les deux cas, la poursuite dans le cadre d'une thèse de doctorat peut être envisagée. 
+Ci-dessous figurent deux offres de stages, pour des étudiant(e)s en master en Europe, en science de données et actuariat. Pour tout complément d'information : [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca). Dans les deux cas, la poursuite dans le cadre d'une thèse de doctorat peut être envisagée. 
 
 # 1: Réseaux et assurance (*peer-to-peer insurance*)
 
