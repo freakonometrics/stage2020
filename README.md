@@ -13,8 +13,12 @@ durée : 4 mois à 6 mois
 Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
 
 References :
-- Les systemes d'indemnisation des catastrophes naturelles [pdf](https://github.com/freakonometrics/catnat/raw/master/documents/2017-rapport-systemes-indemnisation-catastrophes-naturelles%200.pdf)
-- Insurance of weather and climate-related disaster risk: Inventory and analysis of mechanisms to support damage prevention in the EU [pdf](https://github.com/freakonometrics/catnat/raw/master/documents/2017%20Le%20Den%20et%20Kuik%20%20-%20Insurance%20of%20weather%20and%20climate-related%20disasters%200.pdf)
+- Chung, F, Lu, L. (2002). Connected Components in Random Graphs with Given Expected Degree Sequences. *Annals of Combinatorics* [pdf](http://math.ucsd.edu/~fan/wp/conn.pdf)
+- Denuit, M. (2019). Size-biased transform and conditional mean risk sharing, with application to P2P insurance and tontines. *Working Paper* (pdf)[https://dial.uclouvain.be/pr/boreal/object/boreal%3A215115/datastream/PDF_01/view]
+- Dubois, U. (2015). Tarification d’un stoploss en assurance IARD dans le cadre d’un modèle d’assurance
+collaboratif. *Mémoire EURIA* (pdf)[http://]
+- Sabin, M.J. (2010). Fair Tontine Annuity. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1579932)
+
 
 # 2: Sélection de variables et sélection de modèles en assurance
 
@@ -31,5 +35,12 @@ durée : 4 mois à 6 mois
 Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
 
 References :
-- Les systemes d'indemnisation des catastrophes naturelles [pdf](https://github.com/freakonometrics/catnat/raw/master/documents/2017-rapport-systemes-indemnisation-catastrophes-naturelles%200.pdf)
-- Insurance of weather and climate-related disaster risk: Inventory and analysis of mechanisms to support damage prevention in the EU [pdf](https://github.com/freakonometrics/catnat/raw/master/documents/2017%20Le%20Den%20et%20Kuik%20%20-%20Insurance%20of%20weather%20and%20climate-related%20disasters%200.pdf)
+- Denuit, M., Sznajder, D., Trufin, J. (2019) Model selection based on Lorenz and concentration curves, Gini indices
+and convex order, *Insurance: Mathematics and Economics* [pdf](http://sci-hub.tw/downloads/2019-10-16/dc/10.1016@j.insmatheco.2019.09.001.pdf)
+- Frees, E.W., Meyers, G., Cummings, A.D. (2011). Summarizing insurance scores using
+a Gini index, *Journal of the American Statistical Association* [pdf](https://www.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10506)
+- Frees,  E.W.,  Meyers,  G.,  Cummings,  A.D.  (2013). Insurance  ratemaking  and a  Gini
+index, *Journal of Risk and Insurance* [pdf](Insurance  ratemaking  and a  Gini
+index)
+- Owen, A.B., Prieur, C. (2017). On Shapley value for measuring importance of dependent inputs. *Arvix* [pdf](https://arxiv.org/abs/1610.02080)
+-  Song, E., Nelson, B.L., Staum, J. (2016) Shapley Effects for Global Sensitivity Analysis: Theory and Computation. *SIAM - ASA Journal of Uncertainty Quantification* [pdf](https://pdfs.semanticscholar.org/6a25/48b159bc3bf6c74e13b74a037917951d75ca.pdf)
