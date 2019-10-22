@@ -17,7 +17,10 @@ References :
 - Denuit, M. (2019). Size-biased transform and conditional mean risk sharing, with application to P2P insurance and tontines. *Working Paper* (pdf)[https://dial.uclouvain.be/pr/boreal/object/boreal%3A215115/datastream/PDF_01/view]
 - Dubois, U. (2015). Tarification d’un stoploss en assurance IARD dans le cadre d’un modèle d’assurance
 collaboratif. *Mémoire EURIA* (pdf)[http://]
+- Jackson (2008). Social and Economic Networks. *Princeton University Press*
+- Kolaczyk, E.D. and  Csárdi, G.  (2010) Statistical Analysis of Network Data with R. *Springer Verlag*
 - Sabin, M.J. (2010). Fair Tontine Annuity. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1579932)
+- West, D.B. (1996). Introduction to Graph Theory. [pdf](http://docshare01.docshare.tips/files/26167/261678089.pdf)
 
 
 # 2: Sélection de variables et sélection de modèles en assurance
