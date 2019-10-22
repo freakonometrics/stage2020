@@ -2,15 +2,19 @@
 
 Encadrement : **Arthur Charpentier** 
 
-Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/))
+Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/) et [IVADO](http://ivado.ca/))
 
 Financement : UQAM : billet avion + logement (forfait) + indemnité de stage
 
 durée : 4 mois à 6 mois
 
-*xx*
+*Dans le secteur de l’assurance, de plus en plus de plateformes d’assurance collaborative se développent. Par exemple, Inspeer permettait de mutualiser ses franchises d’assurance dommage (automobile, habitation, moto) avec ses proches. L’utilisateur demande à ses proches de contribuer à sa franchise et ce dernier s’engage à contribuer de manière équivalente à la franchise de son proche en cas de sinistre.*
+
+*Le but du stage est de comprendre comment mettre en place efficacement des mécanismes d'assurance de type peer-to-peer, ou collaborative, sur un réseau d'amis. En particulier, il s'agira de voir comment optimiser l'offre, afin d'assurer une couverture au plus grand nombre.*
 
 Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
+
+Le stage se déroulera à Montréal, Canada. Pour information, en juillet 2020, l'UQAM accueillera *IME 2020 - Insurance Mathematics Economics* [IME](https://tv.uqam.ca/ime-2020-insurance-mathematics-economics-congres-international). Il y aura aussi la possibilité de participer à des ateliers au [MILA](https://mila.quebec/)/[IVADO](http://ivado.ca/).
 
 Références :
 - Chung, F, Lu, L. (2002). Connected Components in Random Graphs with Given Expected Degree Sequences. *Annals of Combinatorics* [pdf](http://math.ucsd.edu/~fan/wp/conn.pdf)
@@ -27,15 +31,21 @@ collaboratif. *Mémoire EURIA*
 
 Encadrement : **Arthur Charpentier** 
 
-Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/))
+Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/) et [IVADO](http://ivado.ca/))
 
 Financement : UQAM : billet avion + logement (forfait) + indemnité de stage
 
 durée : 4 mois à 6 mois
 
-*xx*
+*Dans un contexte de multiplication des modèles prédictifs (GLM, GAM, boosting, NN), choisir parmi les variables et choisir parmi les modèles devient compliqué. Le stage étudiera deux approches.*
+
+*Dans le contexte du choix de variables (ou de la construction de mesure de type variable importance), il s'agira de comprendre comment utiliser la valeur de Shapley, et comment la calculer en grande dimension.*
+
+*Dans un second temps, dans le contexte de choix de modèles, il s'agira de voir comment utiliser l'indice de Gini, et les courbes de Lorenz (adaptées dans un contexte de comparaison de modèles).*
 
 Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
+
+Le stage se déroulera à Montréal, Canada. Pour information, en juillet 2020, l'UQAM accueillera *IME 2020 - Insurance Mathematics Economics* [IME](https://tv.uqam.ca/ime-2020-insurance-mathematics-economics-congres-international). Il y aura aussi la possibilité de participer à des ateliers au [MILA](https://mila.quebec/)/[IVADO](http://ivado.ca/).
 
 Références :
 - Denuit, M., Sznajder, D., Trufin, J. (2019) Model selection based on Lorenz and concentration curves, Gini indices
