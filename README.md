@@ -23,6 +23,7 @@ Références :
 - Denuit, M. (2019). Size-biased transform and conditional mean risk sharing, with application to P2P insurance and tontines. *Working Paper* [pdf](https://dial.uclouvain.be/pr/boreal/object/boreal%3A215115/datastream/PDF_01/view)
 - Dubois, U. (2015). Tarification d’un stoploss en assurance IARD dans le cadre d’un modèle d’assurance
 collaboratif. *Mémoire EURIA* 
+- Ghatak, M. (2010). Exploiting Social Networks to Alleviate Credit Market Failures: On the Endogenous Selection of Peer Groups in Micro finance Programs. [pdf](http://pages.ucsd.edu/~aronatas/conference/sdcredit1.pdf)
 - Jackson (2008). Social and Economic Networks. *Princeton University Press*
 - Kolaczyk, E.D. and  Csárdi, G.  (2010) Statistical Analysis of Network Data with R. *Springer Verlag*
 - Sabin, M.J. (2010). Fair Tontine Annuity. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1579932)
