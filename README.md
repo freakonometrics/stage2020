@@ -23,6 +23,7 @@ Références :
 - Denuit, M. (2019). Size-biased transform and conditional mean risk sharing, with application to P2P insurance and tontines. *Working Paper* [pdf](https://dial.uclouvain.be/pr/boreal/object/boreal%3A215115/datastream/PDF_01/view)
 - Dubois, U. (2015). Tarification d’un stoploss en assurance IARD dans le cadre d’un modèle d’assurance
 collaboratif. *Mémoire EURIA* 
+Emekter, R., Tu, Y., Jirasakuldech, B., Lu, M. (2014). Evaluating credit risk and loan performance in online Peer-to-Peer (P2P) lending *Applied Economics* [pdf](https://www.tandfonline.com/doi/full/10.1080/00036846.2014.962222)
 - Ghatak, M. (2010). Exploiting Social Networks to Alleviate Credit Market Failures: On the Endogenous Selection of Peer Groups in Micro finance Programs. [pdf](http://pages.ucsd.edu/~aronatas/conference/sdcredit1.pdf)
 - Jackson (2008). Social and Economic Networks. *Princeton University Press*
 - Kolaczyk, E.D. and  Csárdi, G.  (2010) Statistical Analysis of Network Data with R. *Springer Verlag*
