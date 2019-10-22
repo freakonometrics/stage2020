@@ -12,7 +12,7 @@ durée : 4 mois à 6 mois
 
 Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
 
-References :
+Références :
 - Chung, F, Lu, L. (2002). Connected Components in Random Graphs with Given Expected Degree Sequences. *Annals of Combinatorics* [pdf](http://math.ucsd.edu/~fan/wp/conn.pdf)
 - Denuit, M. (2019). Size-biased transform and conditional mean risk sharing, with application to P2P insurance and tontines. *Working Paper* [pdf](https://dial.uclouvain.be/pr/boreal/object/boreal%3A215115/datastream/PDF_01/view)
 - Dubois, U. (2015). Tarification d’un stoploss en assurance IARD dans le cadre d’un modèle d’assurance
@@ -37,7 +37,7 @@ durée : 4 mois à 6 mois
 
 Pour postuler : envoyer un CV a [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
 
-References :
+Références :
 - Denuit, M., Sznajder, D., Trufin, J. (2019) Model selection based on Lorenz and concentration curves, Gini indices
 and convex order, *Insurance: Mathematics and Economics* [pdf](http://sci-hub.tw/downloads/2019-10-16/dc/10.1016@j.insmatheco.2019.09.001.pdf)
 - Frees, E.W., Meyers, G., Cummings, A.D. (2011). Summarizing insurance scores using
